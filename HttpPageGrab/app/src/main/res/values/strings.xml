@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HttpPageGrab</string>
+    <string name="getPage">Get Page</string>
+    <string name="urlHint">Enter URL</string>
+    <string name="urlText"></string>
+    <string name="httpResult"></string>
+</resources>
