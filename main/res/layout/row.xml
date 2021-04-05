@@ -3,16 +3,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:elevation="5dp"
+        android:background="@drawable/dropshadow">
 
-
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="wrap_content"
-            android:layout_height="300dp"
-            android:contentDescription="@string/food"
-            android:padding="10dp"
-            android:src="@drawable/clamchowder" />
 
         <TextView
             android:id="@+id/nameTextView"
@@ -20,5 +14,16 @@
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-medium"
             android:text="@string/foodType"
-            android:textSize="40sp" />
+            android:textSize="20dp" />
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/food"
+            android:src="@drawable/clamchowder"
+            android:layout_marginBottom="10dp"/>
+
+
 </LinearLayout>
