@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecipeBuddyCardList</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="foodType">Large Text</string>
+    <string name="foodTitle">These are my favorite foods</string>
+    <string name="food">TODO</string>
+</resources>
