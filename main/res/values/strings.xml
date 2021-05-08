@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Recipe Buddy</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="foodType" />
+    <string name="food" />
+    <string name="title_activity_recipe_form">Add A Recipe</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="getPage">Get Recipe</string>
+    <string name="urlHint">Enter URL</string>
+    <string name="urlText" />
+    <string name="httpResult" />
+    <string name="foodImage" />
+    <string name="save_recipe">Save Recipe</string>
+    <string name="imageHint">Click to Add Image</string>
+    <string name="recipeNameHint">Enter a Recipe Name</string>
+    <string name="recipeIngredientsHint">Enter the Ingredients list</string>
+    <string name="recipeDirectionsHint">Enter Your Recipe Directions</string>
+    <string name="recipeDirections" />
+    <string name="recipeIngredients" />
+    <string name="recipeName" />
+    <string name="title_activity_recipe_menu">Recipe Buddy</string>
+    <string name="title_activity_recipe_entry">Your Recipe</string>
+    <string name="title_activity_login">Recipe Buddy</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="login_welcome">Welcome</string>
+    <string name="login_directions">Please Login or Signup Below</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="login_signup_tip">or</string>
+    <string name="action_signout">Sign Out</string>
+    <string name="saveChangesBtn">Save Changes</string>
+    <string name="recipeFormHint">Add recipe with URL above or manually below</string>
+    <string name="recipeListHint">These are all your recipes</string>
+</resources>
